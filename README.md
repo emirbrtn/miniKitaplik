@@ -29,7 +29,7 @@ Kullanıcılar kitap adı veya türüne göre arama yapabilir ve favori kitaplar
 Projeyi yerel ortamınıza klonlayarak kolayca çalıştırabilirsiniz:
 
 ```bash
-git clone https://github.com/emirbrtn/mini-kitaplik.git
+git clone https://github.com/emirbrtn/miniKitaplik
 cd mini-kitaplik
 ```
 
