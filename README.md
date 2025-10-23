@@ -37,12 +37,6 @@ Ardından `index.html` dosyasını tarayıcınızda açarak siteyi görüntüley
 
 ---
 
-## 📸 Ekran Görüntüsü
-
-> (Buraya istersen proje arayüzünden bir ekran görüntüsü ekleyebilirsin)
-
----
-
 ## 👨‍💻 Geliştirici
 
 **Emircan Bartan**  
