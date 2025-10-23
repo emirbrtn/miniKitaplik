@@ -4,7 +4,7 @@ Bu proje, **HTML** ve **Tailwind CSS** kullanılarak hazırlanmış kişisel bir
 Sitede *Hakkımda* ve *Kişisel Fotoğraf/Videolar* bölümleri bulunmaktadır.
 
 🌐 **Canlı siteyi incelemek için:**  
-[Mini Kitaplık](mini-kitaplik-eosin.vercel.app)
+[Mini Kitaplık](https://mini-kitaplik-eosin.vercel.app/)
 
 ---
 
